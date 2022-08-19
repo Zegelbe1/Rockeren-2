@@ -1,0 +1,7 @@
+C:\Users\JensN\source\repos\Rockeren\Rockeren\bin\Debug\Rockeren.exe.config
+C:\Users\JensN\source\repos\Rockeren\Rockeren\bin\Debug\Rockeren.exe
+C:\Users\JensN\source\repos\Rockeren\Rockeren\bin\Debug\Rockeren.pdb
+C:\Users\JensN\source\repos\Rockeren\Rockeren\obj\Debug\Rockeren.csproj.AssemblyReference.cache
+C:\Users\JensN\source\repos\Rockeren\Rockeren\obj\Debug\Rockeren.csproj.CoreCompileInputs.cache
+C:\Users\JensN\source\repos\Rockeren\Rockeren\obj\Debug\Rockeren.exe
+C:\Users\JensN\source\repos\Rockeren\Rockeren\obj\Debug\Rockeren.pdb
